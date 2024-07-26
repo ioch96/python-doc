@@ -5,9 +5,3 @@
 - [ ] RST
 - [ ] Try...Exceptions
 - [ ] ...
-
-## Try-Except-Else-Finally
-
-
-
-
